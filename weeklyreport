@@ -1,0 +1,8 @@
+Do a website for my CV
+1 - HTML and css only 
+2 - Photo and name on a fixed header
+3 - My contacts and social media on a fixed footer
+3.1 - Each contact has to have a logo and a text, with one whole block that redirects to the site/app.
+4 - Content between header and footer scrolable 
+5 - On each block with info, highlight with shadow when hoovering over the text.
+6 - Add portfolio 
